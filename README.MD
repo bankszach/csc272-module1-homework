@@ -1,15 +1,15 @@
 
----
-
 # CSC272 – Module 1 Homework
 
-**First Name:** Zachary 
-**Last Name:** Banks
-**Student ID:** 900648740
-**Week #:** 1
-**Email:** z.banks8740@student.nu.edu
+| | |
+|---|---|
+| **Student** | **Zachary Banks** |
+| **ID #** | 900648740 |
+| **Week** | 1 |
+| **Email** | z.banks8740@student.nu.edu |
 
 ---
+
 
 ## Problem 1 – Simplified Microwave
 
